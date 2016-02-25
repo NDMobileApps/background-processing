@@ -1,4 +1,4 @@
-i# This Code is Not Multi-Threaded
+# This Code is Not Multi-Threaded
 This sample demonstrates asynchronous (background) processing.  **However**, there is only *ONE* thread used in this example.  When we do this... 
 
 ```sh
